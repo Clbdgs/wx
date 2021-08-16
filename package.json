@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Clbdgs/wx/issues"
   },
-  "homepage": "https://github.com/Clbdgs/wx#readme"
+  "homepage": "https://github.com/Clbdgs/wx#readme",
+  "dependencies": {
+    "vue-cli": "^2.9.6"
+  }
 }
